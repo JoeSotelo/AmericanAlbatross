@@ -1,0 +1,42 @@
+/* some banging styles and guides. https://www.w3schools.com/css/default.asp */
+  
+header
+{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 2em;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    border-style:double;
+}
+
+main
+{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 1em;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #000;
+    margin: 10;
+    padding: 10;
+    border: 10px;
+}
+main 
+{
+    position: relative;
+}
+  
+.text-under-header 
+
+{
+    position: absolute;
+    bottom: 0;
+}
+
+
